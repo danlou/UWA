@@ -1,2 +1,2 @@
 # UWA
-Word Sense Disambiguation (WSD) dataset - Unambiguous Web Annotations (UWA)
+Word Sense Disambiguation (WSD) dataset - Unambiguous Word Annotations (UWA)
